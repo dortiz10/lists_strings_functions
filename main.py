@@ -133,14 +133,19 @@ print(len(newList))
 
 
 #.remove(), .append(), sort(), .len() are list functions
-
+newLists = ["Joker" , 1 , 4 , 7 , "Batman" , 9 , 10 , 11 , "Robin"]
+print(newLists)
 
 # In[3]:
 
 
 #also we can define N dimensional list not just 1 dimensional
 #1 dimensional means only one item per comma
-
+avengers = ["hawkeye" ,"hulk", "black panther", "Cap America"]
+multiDimen = [[3,5], [7,6], [6,3], [8,9]]
+print(multiDimen[0][0])
+#multidimensional arrays are more than just
+# a single list of items
 
 # In[ ]:
 
